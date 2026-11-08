@@ -1,7 +1,6 @@
 # Assignment 4: Dynamic Programming and String Algorithms
 
-**Student:** Nurlybek Taubakabyl  
-**Course:** Design and Analysis of Algorithms
+https://github.com/NeoOSus/DAA-ASN4.git
 
 ## Experiment Design Card
 
