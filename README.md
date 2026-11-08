@@ -18,6 +18,3 @@ Run `mvn -q -DskipTests package` and then `java -cp target/classes assignment.Ex
 - `results/plots`: PNG plots
 - `REPORT.md`: design card, results and conclusions
 
-## AI use acknowledgement
-
-AI assistance was used to help draft and review the code, experiment design and report. I reviewed the output and take responsibility for the submitted work.
